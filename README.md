@@ -6,4 +6,4 @@ Minha meta é estudar um pouquinho todo santo dia haha\
 Espero que eu consiga, me desejem sorte! 🙏🏼
 
 Projeto Animais Fantásticos:
-https://github.com/DrikaDev/projeto_origamid_1
+https://github.com/DrikaDev/projeto_animais_fantasticos
