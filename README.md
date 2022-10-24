@@ -5,4 +5,5 @@ Aqui vou colocar as minhas anotações com os estudos de JavaScript que estou fa
 Minha meta é estudar um pouquinho todo santo dia haha\
 Espero que eu consiga, me desejem sorte! 🙏🏼
 
-Para isso estou usando o VSCode 💻
+Projeto Animais Fantásticos:
+https://github.com/DrikaDev/projeto_origamid_1
