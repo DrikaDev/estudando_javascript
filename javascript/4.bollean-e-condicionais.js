@@ -50,3 +50,22 @@ if(("Gato" === "gato") || (5 > 2)){
 }else{
     console.log("Falso");
 }
+
+//condição para ver se tal número é par (true ou false)
+
+const numero = 11;
+const ehNumeroPar = (numero % 1) === 0;
+
+// if (numeroPar) {
+//     console.log("O número é Par");
+// }
+// if (!numeroPar) {
+//     console.log("O número não é Par");
+// }
+if (ehNumeroPar === 0){
+    console.log("Número é inválido");
+}else if (ehNumeroPar) {
+    console.log("O número é Par");
+}else{
+    console.log("O número é Ímpar");
+}
