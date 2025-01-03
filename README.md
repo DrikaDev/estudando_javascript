@@ -1,9 +1,8 @@
 # estudando_javascript 😁
 
 Oi pessoal!\
-Aqui vou colocar as minhas anotações com os estudos de JavaScript que estou fazendo pelo curso da Origamid 🐺\
-Minha meta é estudar um pouquinho todo santo dia haha\
+Aqui vou colocar meus estudos de JavaScript que estou me compromentendo a fazer a partir de hoje 02/01/2025!\
+Minha meta é estudar um pouquinho todo dia haha\
 Espero que eu consiga, me desejem sorte! 🙏🏼
 
-Projeto Animais Fantásticos que estou fazendo junto com as aulas:\
-https://github.com/DrikaDev/projeto_animais_fantasticos
+E tenham todos um Feliz Ano Novo! 🌟
